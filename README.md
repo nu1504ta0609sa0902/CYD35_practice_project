@@ -1,7 +1,7 @@
 # This is NOT Cheap Yellow Display 2.8 ESP32-2432S028R
 
 # CYD35_practice_project
-Store CYD 3.5 Inch Projects
+Keep CYD 3.5 Inch Projects
 
 # This is to record my learning and progress for CYD35.
 CYD35 = CYD 3.5 screen
