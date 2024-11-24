@@ -1,4 +1,6 @@
-# This is NOT Cheap Yellow Display 2.8 ESP32-2432S028R
+# This is NOT Cheap Yellow Display (CYD) 2.8 ESP32-2432S028R
+All CYD projects are here:
+https://github.com/nu1504ta0609sa0902/CYD_practice_projects
 
 # CYD35_practice_project
 Keep CYD 3.5 Inch Projects
